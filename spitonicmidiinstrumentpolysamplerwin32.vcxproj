@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{AD5E4A2A-1DEA-4E63-B783-B55E75DC0314}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>spitonicmidiinstrumentpolysamplerwin32</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>..\lib-src\portaudio\include;..\lib-src\freeimage\Source\;..\spiwavsetlib;..\lib-src\portmidi\pm_common;..\lib-src\portmidi\porttime;..\lib-src\tonic\Tonic-master\Tonic-master\src;..\lib-src\libsndfile\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>..\lib-src\freeimage\Dist\FreeImage.lib;winmm.lib;..\spiwavsetlib_vs2013\debug\spiwavsetlib_vs2013.lib;..\lib-src\portaudio\build\msvc\Win32\Debug\portaudio_x86.lib;..\lib-src\portmidi\Debug\portmidi_s.lib;..\lib-src\tonic\Tonic-master\Tonic-master\lib\TonicLibVS2013\Debug\TonicLib.lib;..\lib-src\libsndfile\libsndfile-1.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>..\lib-src\portaudio\include;..\lib-src\freeimage\Source\;..\spiwavsetlib;..\lib-src\portmidi\pm_common;..\lib-src\portmidi\porttime;..\lib-src\tonic\Tonic-master\Tonic-master\src;..\lib-src\libsndfile\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>..\lib-src\freeimage\Dist\FreeImage.lib;winmm.lib;..\spiwavsetlib_vs2013\release\spiwavsetlib_vs2013.lib;..\lib-src\portaudio\build\msvc\Win32\Release\portaudio_x86.lib;..\lib-src\portmidi\Release\portmidi_s.lib;..\lib-src\tonic\Tonic-master\Tonic-master\lib\TonicLibVS2013\Release\TonicLib.lib;..\lib-src\libsndfile\libsndfile-1.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="small.ico" />
+    <None Include="spitonic.licenseheader" />
+    <None Include="spitonicmidiinstrumentpolysamplerwin32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArbitraryTableLookupSynth.h" />
+    <ClInclude Include="BandlimitedOscillatorTestSynth.h" />
+    <ClInclude Include="BasicSynth.h" />
+    <ClInclude Include="BufferPlayerExpSynth.h" />
+    <ClInclude Include="CompressorDuckingTestSynth.h" />
+    <ClInclude Include="CompressorExpSynth.h" />
+    <ClInclude Include="CompressorTestSynth.h" />
+    <ClInclude Include="ControlSnapToScaleTestSynth.h" />
+    <ClInclude Include="ControlSwitcherExpSynth.h" />
+    <ClInclude Include="ControlSwitcherTestSynth.h" />
+    <ClInclude Include="DelayTestSynth.h" />
+    <ClInclude Include="EventsExpSynth.h" />
+    <ClInclude Include="EventsSynth.h" />
+    <ClInclude Include="FilteredNoiseSynth.h" />
+    <ClInclude Include="FilterExpSynth.h" />
+    <ClInclude Include="FMDroneSynth.h" />
+    <ClInclude Include="InputDemoSynth.h" />
+    <ClInclude Include="LFNoiseTestSynth.h" />
+    <ClInclude Include="PolySynth.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ReverbTestSynth.h" />
+    <ClInclude Include="SimpleInstrumentBasicSynth.h" />
+    <ClInclude Include="SimpleInstrumentBufferPlayerSynth.h" />
+    <ClInclude Include="SimpleInstrumentSineSumSynth.h" />
+    <ClInclude Include="SimpleInstrumentSynth.h" />
+    <ClInclude Include="SimpleInstrumentTableLookupSPEARSynth.h" />
+    <ClInclude Include="SimpleInstrumentTableLookupSynth.h" />
+    <ClInclude Include="SimpleStepSeqSynth.h" />
+    <ClInclude Include="SineSumSynth.h" />
+    <ClInclude Include="smbPitchShift.h" />
+    <ClInclude Include="speartextpartialsreader.h" />
+    <ClInclude Include="spitonicmidiinstrumentpolysamplerwin32.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="StepSequencerBufferPlayerEffectExpSynth.h" />
+    <ClInclude Include="StepSequencerBufferPlayerExpSynth.h" />
+    <ClInclude Include="StepSequencerExpSynth.h" />
+    <ClInclude Include="StepSequencerSynth.h" />
+    <ClInclude Include="StereoDelayTestSynth.h" />
+    <ClInclude Include="SuperBufferPlayer.h" />
+    <ClInclude Include="SynthsAsGeneratorsDemoSynth.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="XYSpeedSynth.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PolySynth.cpp" />
+    <ClCompile Include="smbpitchshift.cpp" />
+    <ClCompile Include="spitonicmidiinstrumentpolysamplerwin32.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="spitonicmidiinstrumentpolysamplerwin32.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

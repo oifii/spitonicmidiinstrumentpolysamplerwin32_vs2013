@@ -1,0 +1,140 @@
+success, found midinote 12 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_024_c0.wav
+success, found midinote 15 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_027_d#0.wav
+success, found midinote 18 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_030_f#0.wav
+success, found midinote 21 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_033_a0.wav
+success, found midinote 24 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_036_c1.wav
+success, found midinote 27 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_039_d#1.wav
+success, found midinote 30 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_042_f#1.wav
+success, found midinote 33 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_045_a1.wav
+success, found midinote 36 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_048_c2.wav
+success, found midinote 39 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_051_d#2.wav
+success, found midinote 42 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_054_f#2.wav
+success, found midinote 45 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_057_a2.wav
+success, found midinote 48 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_060_c3.wav
+success, found midinote 51 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_063_d#3.wav
+success, found midinote 54 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_066_f#3.wav
+success, found midinote 57 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_069_a3.wav
+success, found midinote 60 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_072_c4.wav
+success, found midinote 63 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_075_d#4.wav
+success, found midinote 66 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance Pad_ms0_078_f#4.wav
+success, found midinote 69 for sample name D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples\Trance pitchshifted midinote 23 from referencemidinote 24
+pitchshifted midinote 22 from referencemidinote 24
+pitchshifted midinote 21 from referencemidinote 24
+pitchshifted midinote 20 from referencemidinote 24
+pitchshifted midinote 19 from referencemidinote 24
+pitchshifted midinote 18 from referencemidinote 24
+pitchshifted midinote 17 from referencemidinote 24
+pitchshifted midinote 16 from referencemidinote 24
+pitchshifted midinote 15 from referencemidinote 24
+pitchshifted midinote 14 from referencemidinote 24
+pitchshifted midinote 13 from referencemidinote 24
+pitchshifted midinote 12 from referencemidinote 24
+pitchshifted midinote 26 from referencemidinote 27
+pitchshifted midinote 25 from referencemidinote 24
+pitchshifted midinote 29 from referencemidinote 30
+pitchshifted midinote 28 from referencemidinote 27
+pitchshifted midinote 32 from referencemidinote 33
+pitchshifted midinote 31 from referencemidinote 30
+pitchshifted midinote 35 from referencemidinote 36
+pitchshifted midinote 34 from referencemidinote 33
+pitchshifted midinote 38 from referencemidinote 39
+pitchshifted midinote 37 from referencemidinote 36
+pitchshifted midinote 41 from referencemidinote 42
+pitchshifted midinote 40 from referencemidinote 39
+pitchshifted midinote 44 from referencemidinote 45
+pitchshifted midinote 43 from referencemidinote 42
+pitchshifted midinote 47 from referencemidinote 48
+pitchshifted midinote 46 from referencemidinote 45
+pitchshifted midinote 50 from referencemidinote 51
+pitchshifted midinote 49 from referencemidinote 48
+pitchshifted midinote 53 from referencemidinote 54
+pitchshifted midinote 52 from referencemidinote 51
+pitchshifted midinote 56 from referencemidinote 57
+pitchshifted midinote 55 from referencemidinote 54
+pitchshifted midinote 59 from referencemidinote 60
+pitchshifted midinote 58 from referencemidinote 57
+pitchshifted midinote 62 from referencemidinote 63
+pitchshifted midinote 61 from referencemidinote 60
+pitchshifted midinote 65 from referencemidinote 66
+pitchshifted midinote 64 from referencemidinote 63
+pitchshifted midinote 68 from referencemidinote 69
+pitchshifted midinote 67 from referencemidinote 66
+pitchshifted midinote 71 from referencemidinote 72
+pitchshifted midinote 70 from referencemidinote 69
+pitchshifted midinote 74 from referencemidinote 75
+pitchshifted midinote 73 from referencemidinote 72
+pitchshifted midinote 77 from referencemidinote 78
+pitchshifted midinote 76 from referencemidinote 75
+pitchshifted midinote 80 from referencemidinote 81
+pitchshifted midinote 79 from referencemidinote 78
+pitchshifted midinote 83 from referencemidinote 84
+pitchshifted midinote 82 from referencemidinote 81
+pitchshifted midinote 85 from referencemidinote 84
+pitchshifted midinote 86 from referencemidinote 84
+pitchshifted midinote 87 from referencemidinote 84
+pitchshifted midinote 88 from referencemidinote 84
+pitchshifted midinote 89 from referencemidinote 84
+pitchshifted midinote 90 from referencemidinote 84
+pitchshifted midinote 91 from referencemidinote 84
+pitchshifted midinote 92 from referencemidinote 84
+pitchshifted midinote 93 from referencemidinote 84
+pitchshifted midinote 94 from referencemidinote 84
+pitchshifted midinote 95 from referencemidinote 84
+pitchshifted midinote 96 from referencemidinote 84
+pitchshifted midinote 11 from referencemidinote 12
+pitchshifted midinote 10 from referencemidinote 12
+pitchshifted midinote 9 from referencemidinote 12
+pitchshifted midinote 8 from referencemidinote 12
+pitchshifted midinote 7 from referencemidinote 12
+pitchshifted midinote 6 from referencemidinote 12
+pitchshifted midinote 5 from referencemidinote 12
+pitchshifted midinote 4 from referencemidinote 12
+pitchshifted midinote 3 from referencemidinote 12
+pitchshifted midinote 2 from referencemidinote 12
+pitchshifted midinote 1 from referencemidinote 12
+pitchshifted midinote 0 from referencemidinote 12
+pitchshifted midinote 97 from referencemidinote 96
+pitchshifted midinote 98 from referencemidinote 96
+pitchshifted midinote 99 from referencemidinote 96
+pitchshifted midinote 100 from referencemidinote 96
+pitchshifted midinote 101 from referencemidinote 96
+pitchshifted midinote 102 from referencemidinote 96
+pitchshifted midinote 103 from referencemidinote 96
+pitchshifted midinote 104 from referencemidinotpitchshifted midinote 114 from referencemidinote 111
+pitchshifted midinote 115 from referencemidinote 111
+pitchshifted midinote 116 from referencemidinote 111
+pitchshifted midinote 117 from referencemidinote 111
+pitchshifted midinote 118 from referencemidinote 111
+pitchshifted midinote 119 from referencemidinote 111
+pitchshifted midinote 120 from referencemidinote 111
+pitchshifted midinote 121 from referencemidinote 111
+pitchshifted midinote 122 from referencemidinote 111
+pitchshifted midinote 123 from referencemidinote 111
+pitchshifted midinote 11 from referencemidinote 12
+pitchshifted midinote 10 from referencemidinote 12
+pitchshifted midinote 9 from referencemidinote 12
+pitchshifted midinote 8 from referencemidinote 12
+pitchshifted midinote 7 from referencemidinote 12
+pitchshifted midinote 6 from referencemidinote 12
+pitchshifted midinote 5 from referencemidinote 12
+pitchshifted midinote 4 from referencemidinote 12
+pitchshifted midinote 3 from referencemidinote 12
+pitchshifted midinote 2 from referencemidinote 12
+pitchshifted midinote 1 from referencemidinote 12
+pitchshifted midinote 0 from referencemidinote 12
+pitchshifted midinote 124 from referencemidinote 123
+pitchshifted midinote 125 from referencemidinote 123
+pitchshifted midinote 126 from referencemidinote 123
+pitchshifted midinote 127 from referencemidinote 123
+ed midinote 116 from referencemidinote 108
+pitchshifted midinote 117 from referencemidinote 108
+pitchshifted midinote 118 from referencemidinote 108
+pitchshifted midinote 119 from referencemidinote 108
+pitchshifted midinote 120 from referencemidinote 108
+pitchshifted midinote 121 from referencemidinote 120
+pitchshifted midinote 122 from referencemidinote 120
+pitchshifted midinote 123 from referencemidinote 120
+pitchshifted midinote 124 from referencemidinote 120
+pitchshifted midinote 125 from referencemidinote 120
+pitchshifted midinote 126 from referencemidinote 120
+pitchshifted midinote 127 from referencemidinote 120

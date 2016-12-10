@@ -1,0 +1,1 @@
+success, found midinote 127 for sample name D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spitonicmidiinstrumentpolysamplerwin32_vs2013\80snare\80snare_G9.wav

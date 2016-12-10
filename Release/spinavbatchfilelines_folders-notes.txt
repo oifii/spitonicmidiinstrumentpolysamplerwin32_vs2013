@@ -1,0 +1,281 @@
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spimidisamplerwin32\03 Cello ensemble - 8(A)
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spimidisamplerwin32\03 Cello ensemble - 8(A-D-E)
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spimidisamplerwin32\03 Cello ensemble - 8(C-F-G)
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Harmonic Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Alto Saxophone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Baritone Saxophone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Acid Mini Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Acid Tube Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Addition Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Angry Wavetables Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Banzai 23 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Digi Punch Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Fudge Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Impact Bass 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Impact Bass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Impact Bass 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Impact Bass 4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\In Your Face Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Loaded Tube Bass 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Loaded Tube Bass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Memory Bass 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Memory Bass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Memory Bass 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Memory Bass 4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Memory Bass 5 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Mini Bass 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Mini Bass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Mini Bass 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Mini Bass 4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Mini Bass 5 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Mini Bass 6 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Percu Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Plastik Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\PPG Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Pure Pulse Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Reso Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Reso Saw Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Saege Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Saturated Machine Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Sub Bass 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Sub Bass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Sub Bass 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Sub Bass 4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Sub Bass 5 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Bass Samples\Sub Bass 6 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Breatho Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Choirint Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Choral Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Dark Choir Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Fairy Voice Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Forma Choir Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\LAAlike Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\Vochor Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Lead Samples\Cheesy Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Lead Samples\Grillage Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Lead Samples\Melody Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Lead Samples\Poly Detuned Lead  Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Lead Samples\Supersaw 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Lead Samples\Supersaw 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Lead Samples\Unisono Saw Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Additive Piano Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Asia Glass Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Bell Computer Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Ethno Mallet Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Ethno Pluck Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\FM Freaks 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\FM Freaks 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\FM Freaks 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\FM Freaks 4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Glassy Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Metabell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Phuture Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Shaper Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Mallet Samples\Verzerrte Saite Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\A Bird Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Ahoi Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Ambibella Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Analogue Strings Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\April Pan Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Bell Lowpass Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Bowgart Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Brite Pad High Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Brite SyncStab Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Chrystal Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Dark Pad Octave Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\EG Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Fragile Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Fudge Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Green Fairy Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\High Dark and Long Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\High Strings Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Huge Digitalo Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Low Pass Glider Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Lowpass Sync Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Minimoog Poly #5 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Minimoog Poly #6 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Minimoog Poly#13 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Minimoog Poly#14 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Minimoog Poly#19 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Modulation Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Moog_Flute Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Open Spaces Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Plain Drops Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Polydetuned Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Polypop Chord Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Rapman Warm Strings Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Rasper Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Retro Strings 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Retro Strings 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Royal Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Sacre Coeur Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Sad Steam Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Shivers Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Suave Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Subtle Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Summer Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Sunset Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Superpathos Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Table Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Trance Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\We Dance In Trance Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Pad Samples\Winter Keys Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Arcaned Noise Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Calculator Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Mini Poly 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Sequencer Samples\Snertz Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Acid Tube Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Catchy Filter Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Classic Flute Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Dirty Saw Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\In Your Face Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Innocent Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Loaded Tube Bass 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Loaded Tube Bass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Melody Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Metallic Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Naive Synth Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Saturated Machine Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Straight Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Sub Bass 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Sub Bass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Sub Bass 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Sub Bass 4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Sub Bass 5 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Sub Bass 6 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Sub Pusher Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Vocoder Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Contemporary Analog Machines Samples\Welcome 1976 Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Additive Piano Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Analogue Strings Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Angry Wavetables Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Asia Glass Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Bella Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Britzel Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Choirint Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Digi Punch Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Disco Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Ethno Pluck Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Forma Choir Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Glassy Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Jaco Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Lately FM Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Metabell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Miami DX Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Modern FM Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Perc Stab Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Percu Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Phuture Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Portalead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Retro Strings 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Retro Strings 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Rude Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Shaper Bell Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Table Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Technoid Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Verzerrte Saite Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Digital Machines Samples\Wired Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\50s SciFi Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Bell Lowpass Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Brite Pad High Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Brite SyncStab Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Buh Wang Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Cozy Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Dancebass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Dark Pad Octave Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Flute Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\High Expression Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\High Strings Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Low Pass Glider Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Lowpass Sync Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Metabali Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Modulation Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Mono Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Memory Samples\Sneaky Stereo Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Acid Mini Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Dirty Mini Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Dirty Mini Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Dusty Mini Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Brass Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Brass Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Chord Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Driven Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Flute Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 3 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 5 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 6 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 7 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 8 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 9 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 10 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 11 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 12 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 13 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Mini Lead 14 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Minipad 1 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Minipad 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Noise Sweep Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Reso Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Reso Saw Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Saw Source Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Slow Motion Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Sync Sweep Pad Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Mini Samples\Taped Mini Lead Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Peo 800 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Band Hit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Brass 2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Brass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Car Horn Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Emergency Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Orchestra Hit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Piano Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Reed Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vibraphone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Vocoder Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Warm Strings Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\Rapman Samples\Rapman Waw Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Flute Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Piano Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Violin Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\01 Violin ensemble - 14
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\02 Viola ensemble - 10
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\03 Cello ensemble - 8
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\04 Double Bass ensemble - 6
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\05 Harp
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\06 Piccolo Flute
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\07 Flute
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\08 Oboe
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\09 Clarinet
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\10 Bassoon
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\11 Horn solo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\12 Horn ensemble - 4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\13 Trumpet solo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\14 Trumpet ensemble - 3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\15 Trombone solo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\16 Trombone ensemble - 3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\17 Bass Tuba
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\18 French Oboe
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\19 English Horn
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\21 Timpani
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\23 Mallets & Bells
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB - Voix Humaine 8' (rls) Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB GPR-Fonds+Quint (rls) Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\NDB Pos-Scharff (Rls) Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\High Whistle Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kaval Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Low Whistle Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Shehnai Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Zurna Samples

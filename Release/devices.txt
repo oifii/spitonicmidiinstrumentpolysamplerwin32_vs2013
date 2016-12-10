@@ -1,0 +1,11 @@
+id=0, name=Microsoft Sound Mapper - Input
+id=1, name=Microphone (Fast Track)
+id=2, name=Microsoft Sound Mapper - Output
+id=3, name=Speakers (Fast Track)
+id=4, name=Primary Sound Capture Driver
+id=5, name=Microphone (Fast Track)
+id=6, name=Primary Sound Driver
+id=7, name=Speakers (Fast Track)
+id=8, name=Speakers (Fast Track)
+id=9, name=Microphone (Fast Track)
+id=10, name=Fast Track
